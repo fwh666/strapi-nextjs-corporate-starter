@@ -12,3 +12,5 @@ NODE_ENV=production yarn build
 5. 命令是否需要覆盖操作
 6. 直接： yarn develop&& yarn build
 7. 打包用develop 部署用build
+8. npm install sqlite3 && npm install 
+9. npm run start
