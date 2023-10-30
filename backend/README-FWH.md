@@ -11,3 +11,4 @@ NODE_ENV=production yarn build
 4. 是否需要提前配置环境信息，还是Vercel端配置上
 5. 命令是否需要覆盖操作
 6. 直接： yarn develop&& yarn build
+7. 打包用develop 部署用build
