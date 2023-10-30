@@ -14,4 +14,4 @@ NODE_ENV=production yarn build
 7. 打包用develop 部署用build
 8. npm install sqlite3 && npm install  修改为： 8. npm install sqlite3 && npm run build
 9. npm run start 
-10. 设置输出目录/vercel/output
+10. 设置输出目录/vercel/output.   build  install start
