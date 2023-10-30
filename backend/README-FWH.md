@@ -3,4 +3,5 @@
 2. 后端生成apiToken， 一个只读，一个创建。用于前端服务访问用
 
 ## 如何在Vercel部署strapi后端服务
-1. 
+1. NODE_ENV=production yarn build
+2. NODE_ENV=production yarn start
