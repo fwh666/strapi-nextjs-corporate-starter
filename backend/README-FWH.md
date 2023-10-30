@@ -6,3 +6,4 @@
 1. NODE_ENV=production yarn build
 2. NODE_ENV=production yarn start
 3. 如何配置build，outdir，install，deployment
+4. 是否需要提前配置环境信息，还是Vercel端配置上
