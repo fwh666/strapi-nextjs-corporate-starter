@@ -5,3 +5,4 @@
 ## 如何在Vercel部署strapi后端服务
 1. NODE_ENV=production yarn build
 2. NODE_ENV=production yarn start
+3. 如何配置build，outdir，install，deployment
