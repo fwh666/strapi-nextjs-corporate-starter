@@ -16,3 +16,6 @@ NODE_ENV=production yarn build
 9. npm run start 
 10. 设置输出目录/vercel/output.   build  install start
 11. 再render.com中标准输出： npm install&& npm run build    npm run develop  
+
+## 部署：
+1. 用GoogleCloud部署了
